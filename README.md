@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Hi, I'm a Developer
-
-I build interactive web experiences, software projects, and games. I'm passionate about programming, problem-solving, and turning ideas into practical applications.
+-->I build interactive web experiences, software projects, and games. I'm passionate about programming, problem-solving, and turning ideas into practical applications.
 
 Technologies
 
