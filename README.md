@@ -18,15 +18,9 @@ I'm Rehan. I design and build whatever I can imagine.
 
 I build interactive web experiences, software projects, and games. I'm passionate about programming, problem-solving, and turning ideas into practical applications.
 
-Technologies
+I like turning my imagination into reality by writing code.
 
-HTML · CSS · JavaScript · C · C++
-
-Featured Projects
-
-JARVIS AI Assistant — A personal AI assistant inspired by intelligent virtual assistants.
-
-Combat Game — A 2D action game featuring unique abilities, combat mechanics, and animated characters.
+I create whatever my mind says as I love it
 
 Currently
 
