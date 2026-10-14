@@ -27,7 +27,7 @@
 ## ⚡ `WHOAMI`
 
 ```js
-const farhan = {
+const rehan = {
     role: "Aspiring Software Developer",
     interests: [
         "Game Development",
@@ -89,33 +89,6 @@ console.log("The next level starts here.");
 
 ## 🚀 `PROJECTS.INIT()`
 
-<div align="center">
-
-### 🎮 POWER VS CENTIPEDE OVERLORD
-
-<img src="https://img.shields.io/badge/PROJECT-01-FF2E93?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GENRE-2D%20ARCADE-7C3AED?style=for-the-badge"/>
-
-**A vision for an intense supernatural combat game.**
-
-A 2D action experience centered around powerful abilities, cinematic attacks, animated stickman fighters, and a terrifying multi-phase Centipede Overlord boss.
-
-**Planned highlights**
-
-- ⚔️ Unique powers, normal attacks, special attacks, and ultimate abilities.
-- 💥 Impactful combat with particles, hit-stop, screen shake, and cinematic effects.
-- 👹 Multi-phase boss battles with telegraphed attacks and escalating difficulty.
-- 🕹️ Responsive controls, dodging, dashing, jumping, and combo systems.
-- 🌌 Atmospheric arenas and supernatural visual effects.
-
-**Tech direction:** JavaScript / TypeScript · Phaser · HTML5 · CSS
-
-<!-- Replace the URL below with your actual game repository. -->
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
----
 
 ### 🤖 JARVIS-STYLE AI AGENT
 
