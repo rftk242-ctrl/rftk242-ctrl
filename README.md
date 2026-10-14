@@ -10,6 +10,20 @@
 
 I’m Rehan, a frontend developer passionate about creating modern, responsive, and visually engaging web experiences. I enjoy bringing ideas to life through clean code, creative interfaces, smooth animations, and interactive designs.
 
+### Tech Stack
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Git, GitHub, VS Code, npm" />
+
+</div>
+
 
 ### GitHub Stats
 
