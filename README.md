@@ -23,7 +23,7 @@ I’m Rehan, a frontend developer passionate about creating modern, responsive, 
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6" height="150" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=rftk242-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8B5CF6" height="150" alt="GitHub statistics" />
 
 <br/>
 
