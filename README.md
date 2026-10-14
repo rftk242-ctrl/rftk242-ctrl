@@ -27,9 +27,7 @@ I’m Rehan, a frontend developer passionate about creating modern, responsive, 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="120" alt="Most used languages" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=100&section=footer" width="100%" />
 
 **✨ Design. Develop. Innovate. Repeat. ✨**
 
